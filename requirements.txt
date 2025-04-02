@@ -1,0 +1,6 @@
+pdfplumber
+tiktoken
+openai
+chromadb
+sentence-transformers
+pandas
